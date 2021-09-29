@@ -18,6 +18,6 @@ Tugas git repo
 11. Tambahkan file README.md menggunakan git add
 12. Gunakan command git commit -m "first commit" untuk melakukan commit pertama pada README.md
 13. Command git log untuk mengecek status file README.md
-14. Command git push -u origin main untuk melakukan push file README.md ke repository github
+14. Command git push -u origin master untuk melakukan push file README.md ke repository github
 15. Login gituhub sekali lagi 
 16. untuk megkoneksikan git dan github, lakukan command authorize 
