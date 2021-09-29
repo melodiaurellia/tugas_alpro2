@@ -20,4 +20,5 @@ Tugas git repo
 13. Command git log untuk mengecek status file README.md
 14. Command git push -u origin master untuk melakukan push file README.md ke repository github
 15. Login gituhub sekali lagi 
-16. untuk megkoneksikan git dan github, lakukan command authorize 
+16. Untuk megkoneksikan git dan github, klik authorize 
+17. Setelah itu cek github pada bagian code, jika sudah ada filenya maka telah berhasil
